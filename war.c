@@ -156,3 +156,4 @@ void liberarMemoria(Territorio* mapa) {
     free(mapa);
     printf("\nMemoria liberada com sucesso!\n");
 }
+prinft("Novo commit\n");
